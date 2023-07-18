@@ -1,0 +1,28 @@
+.calca{
+    
+    align-items: center;
+    display: grid;
+    justify-content: space-around;
+    align-content: stretch;
+    justify-items: center;
+    border: 10px solid #ccc;
+    border-radius: 5px;
+  height: 400px;
+  padding: 30px;
+    margin: 70px;
+    margin-left: 70px;
+    margin-top: 70px;
+    
+  
+}
+button{
+    font-size: 1.5rem!important;
+    height: 50px;
+    width: 50px
+    
+}
+ 
+.type {
+text-align: right;
+
+}
